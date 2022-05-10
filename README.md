@@ -1,1 +1,1 @@
-https://ecommerce-app-beta.vercel.app/
+https://deoxzy-ecommerce.vercel.app/
